@@ -1,15 +1,16 @@
-id: opecha:P000569
+id: P000569
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W3CN5072
   title: རི་ཡི་ཆོས་གཏམ་ཀུན་བཟང་པོའི་སྒྲ་དབྱངས།
-  volume:
+  author: ''
+  volumes:
     04ba093364494626a5e533d0ad32146d:
       image_group_id: I3CN5074
       title: Volume 1 of ri yi chos gtam kun bzang po'i sgra dbyangs/
       volume_number: 1
       total_pages: 120
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: རི་ཡི་ཆོས་གཏམ་ཀུན་བཟང་པོའི་སྒྲ་དབྱངས།
   author: ''
