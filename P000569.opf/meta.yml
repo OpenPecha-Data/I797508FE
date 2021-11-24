@@ -1,5 +1,7 @@
 id: P000569
 initial_creation_type: ocr
+created_at: 27/03/2020
+last_modified_at: 24/11/2021
 source_metadata:
   id: bdr:W3CN5072
   title: རི་ཡི་ཆོས་གཏམ་ཀུན་བཟང་པོའི་སྒྲ་དབྱངས།
@@ -11,10 +13,3 @@ source_metadata:
       volume_number: 1
       total_pages: 120
       base_file: v001.txt
-ebook_metadata:
-  title: རི་ཡི་ཆོས་གཏམ་ཀུན་བཟང་པོའི་སྒྲ་དབྱངས།
-  author: ''
-  sku: P000569
-  cover: cover.jpg
-  layers:
-  - pagination
